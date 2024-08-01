@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  and:
+    image: 'ron:1.0'
+    ports:
+      - '8080:8080'
